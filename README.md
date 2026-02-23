@@ -4,7 +4,7 @@ A full-featured notes application with user authentication, OAuth support, and p
 
 ## Output Screenshot
 
-![App Output](public/assets/output.png)
+![App Output](public/assets/keeprOutput.png)
 
 ## Features
 
