@@ -1,6 +1,6 @@
 # Keeper App - Full Stack Notes Application
 
-A full-featured notes application with user authentication, OAuth support, and persistent storage using PostgreSQL.
+A web application that lets users create and manage notes stored in memory. It offers a simple, intuitive interface styled like Google Keep, providing a responsive and user-friendly experience on both desktop & mobile devices. This application comes with user authentication, OAuth support, and persistent storage using PostgreSQL.
 
 ## Output Screenshot
 
