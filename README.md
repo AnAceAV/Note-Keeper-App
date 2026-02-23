@@ -2,6 +2,10 @@
 
 A full-featured notes application with user authentication, OAuth support, and persistent storage using PostgreSQL.
 
+## Output Screenshot
+
+![App Output](public\assets\output.png)
+
 ## Features
 
 ✅ **User Authentication**
